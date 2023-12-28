@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mucahit</h1>
-<h3 align="center">Junior frontend developer</h3>
+<h3 align="center">👾Junior Frontend Developer👾</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1200&lines=KA%C4%B0ZOKU+OU+N%C4%B0+ORE+WA+NARU" alt="Typing SVG" /></a>
 
@@ -25,7 +25,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MucahitKartal&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MucahitKartal&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MucahitKartal&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MucahitKartal&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
