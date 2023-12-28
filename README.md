@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mucahit</h1>
 <h3 align="center">Junior frontend developer</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1200&lines=KA%C4%B0ZOKU+OU+N%C4%B0+ORE+WA+NARU" alt="Typing SVG" /></a>
 
 
 - 🌱 I’m currently learning **React,Tailwind,Typescript**
