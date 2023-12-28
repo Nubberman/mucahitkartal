@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mucahit</h1>
 <h3 align="center">Junior frontend developer</h3>
 
-[![](https://visitcount.itsvg.in/api?id=MucahitKartal&icon=0&color=5)](https://visitcount.itsvg.in)
+
 
 - 🌱 I’m currently learning **React,Tailwind,Typescript**
 
