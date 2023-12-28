@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mucahit</h1>
 <h3 align="center">Junior frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nubberman&label=Profile%20views&color=0e75b6&style=flat" alt="nubberman" /> </p>
+[![](https://visitcount.itsvg.in/api?id=MucahitKartal&icon=0&color=5)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **React,Tailwind,Typescript**
 
@@ -32,5 +32,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MucahitKartal&icon=0&color=5)](https://visitcount.itsvg.in)
+
 
