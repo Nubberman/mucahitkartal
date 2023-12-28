@@ -24,13 +24,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nubberman&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nubberman&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nubberman&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact&)
+![](https://github-readme-stats.vercel.app/api?username=MucahitKartal&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MucahitKartal&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MucahitKartal&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=MucahitKartal&icon=0&color=5)](https://visitcount.itsvg.in)
 
